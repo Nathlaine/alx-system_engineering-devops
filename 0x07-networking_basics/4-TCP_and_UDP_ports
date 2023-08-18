@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Prints and checks if a host is listing ports
+
+netstat -l
